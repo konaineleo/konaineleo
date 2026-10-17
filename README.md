@@ -91,9 +91,7 @@
   <img src="https://leetcode.com/static/images/badges/dcc-2026-7.png" alt="Jul LeetCoding Challenge" title="Jul LeetCoding Challenge" width="75" height="75" style="margin-right: 12px;" />
 </p>
 
-## 📁 Solutions Catalog
 
-Catalog contains **1** documented solution(s) organized in [`solutions/`](solutions/):
 
 | # | Problem | Topic | Difficulty | Solution |
 | :---: | :--- | :--- | :---: | :---: |
