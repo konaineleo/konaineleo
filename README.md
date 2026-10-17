@@ -24,13 +24,15 @@
 
   <br/><br/>
 
+  <!-- Monochromatic Royal Blue Heatmap Generated Deterministically -->
+  <a href="https://leetcode.com/smkyuzarsif/">
+    <img src="leetcode-heatmap.svg" alt="LeetCode Submission Heatmap (Royal Blue Scale)" width="100%"/>
+  </a>
+
+  <br/><br/>
+
   <table border="0" cellspacing="8" cellpadding="0">
     <tr>
-      <td align="center">
-        <a href="https://leetcode.com/smkyuzarsif/">
-          <img src="https://leetcard.jacoblin.cool/smkyuzarsif?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Heatmap"/>
-        </a>
-      </td>
       <td align="center">
         <a href="https://leetcode.com/smkyuzarsif/">
           <img src="https://leetcard.jacoblin.cool/smkyuzarsif?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=12" alt="Contest Rating Dashboard"/>
