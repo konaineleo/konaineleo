@@ -95,9 +95,7 @@
 
 
 
-| # | Problem | Topic | Difficulty | Solution |
-| :---: | :--- | :--- | :---: | :---: |
-| 1 | **Two Sum** | Arrays | 🟢 Easy | [View Code](solutions/Arrays/Easy/two_sum.py) |
+
 
 ## 📈 Progress History
 
