@@ -63,6 +63,14 @@
 
 ---
 
+## 🛠️ Technical Profile
+
+<div align="center">
+  <img src="tech-stack.svg" alt="Technical Profile — Tech Stack" width="100%"/>
+</div>
+
+---
+
 ## 📊 Comprehensive Profile Metrics
 
 | Metric | Value | Detail |
