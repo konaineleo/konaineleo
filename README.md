@@ -2,7 +2,7 @@
  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:2d0057,100:5b21b6&height=120&section=header&text=My%20Journey&fontSize=38&fontColor=ffffff&fontAlignY=38" width="100%"/>
   <br/>
-  <img src= "1.png" width= "140%" height= "120%">
+  <img src= "[1.png](https://canva.link/x74qam9zm5i6tnz)" width= "140%" height= "120%">
 
   <br/>
 
