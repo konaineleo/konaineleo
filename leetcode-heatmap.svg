@@ -384,17 +384,26 @@
   <text x="649" y="18" class="month-label">Aug</text>
   <text x="724" y="18" class="month-label">Sep</text>
   <text x="784" y="18" class="month-label">Oct</text>
-  <g transform="translate(503, 149)">
+<g transform="translate(503, 149)">
     <text x="0" y="10" class="legend-text" font-weight="bold">Activity:</text>
-    <rect x="55" y="0" width="11" height="11" rx="2" fill="#111827" stroke="rgba(30, 58, 138, 0.6)" stroke-width="1"/>
+
+    <rect x="55" y="0" width="11" height="11" rx="2"
+          fill="#161616" stroke="#38302A" stroke-width="1"/>
     <text x="70" y="9" class="legend-text">No activity</text>
-    <rect x="147" y="0" width="11" height="11" rx="2" fill="#1E3A8A"/>
+
+    <rect x="147" y="0" width="11" height="11" rx="2" fill="#71320F"/>
     <text x="162" y="9" class="legend-text">Low</text>
-    <rect x="191" y="0" width="11" height="11" rx="2" fill="#1D4ED8"/>
+
+    <rect x="191" y="0" width="11" height="11" rx="2" fill="#984414"/>
     <text x="206" y="9" class="legend-text">Moderate</text>
-    <rect x="265" y="0" width="11" height="11" rx="2" fill="#2563EB"/>
+
+    <rect x="265" y="0" width="11" height="11" rx="2" fill="#C66A25"/>
     <text x="280" y="9" class="legend-text">High</text>
-    <rect x="315" y="0" width="11" height="11" rx="2" fill="#60A5FA"/>
+
+    <rect x="315" y="0" width="11" height="11" rx="2" fill="#F39A4A"/>
     <text x="330" y="9" class="legend-text">Very high</text>
-  </g>
+
+    <rect x="390" y="0" width="11" height="11" rx="2" fill="#FFC078"/>
+    <text x="405" y="9" class="legend-text">Peak</text>
+</g>
 </svg>
